@@ -1,0 +1,8 @@
+## Interface: 40300
+## Title: VehicleStatus
+## Version: 1.0
+## Author: Nick
+
+embeds.xml
+
+VehicleStatus.lua
